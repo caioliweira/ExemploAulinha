@@ -1,0 +1,9 @@
+.container-info{
+    display: flex;
+    flex-direction: column;
+    margin-right: 50px;
+    padding: 0 100px;
+    align-items: center;
+
+    
+}
